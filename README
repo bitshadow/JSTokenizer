@@ -1,0 +1,13 @@
+A simple JS Tokenizer using Node.js
+-----------------------------------
+
+Usage
+~~~~~
+
+1) git clone git@github.com:jigneshhk/JSTokenizer.git
+
+2) cd JSTokenizer
+
+3) node index.js test.js
+
+6) All tokens will be printed on the console screen.
